@@ -1,2 +1,0 @@
-{"train_loss_itm": "0.377", "test_loss_itm": "0.348", "epoch": 0}
-{"train_loss_itm": "0.356", "test_loss_itm": "0.348", "epoch": 1}
