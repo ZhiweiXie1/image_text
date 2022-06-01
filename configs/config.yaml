@@ -1,6 +1,6 @@
 train_file: ['data/train124.json']
 test_file: 'data/test3.json'
-image_root: '/content/drive/MyDrive/Colab Notebooks/xzw/images' 
+image_root: '/home/zhaor/xzw/code1/images' 
 
 bert_config: 'configs/config_bert.json'
 
